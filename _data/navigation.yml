@@ -1,0 +1,6 @@
+- name: About
+  link: /about/
+- name: Projects
+  dropdown: 
+    - name: SdarotTV Downloader
+      link: /SdarotTV-Downloader/
